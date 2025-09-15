@@ -20,10 +20,11 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ### BI: Analytics & Reporting (Data Analysis)
 
 ### Objective
-Develop SQL-based analytics to deliver detailed insights into;
-**Customer Behaviour**
-**Product performance**
-**Sales Trend**
+Develop SQL-based analytics to deliver detailed insights into
+
+- **Customer Behaviour**
+- **Product performance**
+- **Sales Trend**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
